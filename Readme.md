@@ -10,9 +10,7 @@
 >Note: if using pycharm just skip 2 and 3 
 
 ### 4. install grpc
-```python -m pip install grpcio```
+```pip install -r requirements.txt```
 
-### 5. install grpc tools
-```python -m pip install grpcio-tools```
 ### 6. Making proto file
 ```make proto```
