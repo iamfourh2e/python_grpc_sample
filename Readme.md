@@ -9,8 +9,10 @@
 
 >Note: if using pycharm just skip 2 and 3 
 
-### 4. install grpc
-```pip install -r requirements.txt```
+### 4. source env
+```source env/bin/activate```
 
+### 5. install grpc
+```pip install -r requirements.txt```
 ### 6. Making proto file
 ```make proto```
